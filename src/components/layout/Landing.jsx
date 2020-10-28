@@ -1,5 +1,4 @@
-import React, { Component } from 'react'
-import { Link } from 'react-router-dom'
+import React from 'react'
 
 export default function Landing() {
   return (
@@ -25,7 +24,6 @@ export default function Landing() {
           Register or login through the links above
         </p>
       </div>
-
     </div>
   )
 }
